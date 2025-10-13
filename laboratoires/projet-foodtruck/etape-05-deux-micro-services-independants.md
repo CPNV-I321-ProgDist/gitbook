@@ -13,10 +13,6 @@ Elle sont les suivantes:
 * [ ] Ajout d'une table "product\_compositions" pour faire le lien entre ingrédients et pizzas.
 * [ ] Intégration d'un service "pizza" pour gérer la composition des pizzas et communication avec le micro-services "ingredients".
 
-### La vidéo
-
-{% embed url="https://youtu.be/_sGQ-_ENCKg" %}
-
 ### Le code
 
 {% embed url="https://github.com/I321-ProgDist/express-api-starter/tree/develop" %}
