@@ -8,8 +8,8 @@ Les étapes de réalisation sont présentées dans la vidéo ci-dessous. Vous di
 
 Elle sont les suivantes:
 
-* [ ] Séparation des ressources pour disposer d'une base de données ainis qu'un serveur dédiés.
-* [ ] Suppression de toutes les références qui ne sont pas essentielles à la ressource (on retire toutes la logique ingrédients de la ressource pizza).
+* [ ] Séparation des ressources pour disposer d'une base de données ainsi qu'un serveur dédié.
+* [ ] Suppression de toutes les références qui ne sont pas essentielles à la ressource (on retire toute la logique "ingrédients" de la ressource "pizzas").
 * [ ] Ajout d'une table "product\_compositions" pour faire le lien entre ingrédients et pizzas.
 * [ ] Intégration d'un service "pizza" pour gérer la composition des pizzas et communication avec le micro-services "ingredients".
 
