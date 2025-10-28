@@ -31,3 +31,35 @@ Cette épreuve vaut pour 50% de la note finale du module. Les arrondis ainsi que
 
 Le barême habituel suivant sera utilisé : (nb. obtenus / nb. max) \* 5 + 1
 
+
+
+## Evaluation II - Pratique
+
+_Introduction_&#x20;
+
+Cette épreuve permettra de valider la bonne compréhension du projet que nous avons déroulé tout au long du module. L'épreuve est d'ailleurs basée sur le code "solution" qui a été livré 2 semaines avant l'épreuve.
+
+_Modalités_
+
+* individuelle (sans IA),
+* 2 périodes à disposition,
+* vous recevez un code de départ (qui contient le projet réalisé en classe),
+* un cahier des charges détail les requêtes à passer et les résultats à obtenir,
+
+{% hint style="warning" %}
+Ne publier pas votre code sur un dépôt durant l'épreuve.
+{% endhint %}
+
+_Déroulement_
+
+* les 30 premières minutes seront dédiées à la présentation et l'analyse du cahier des charges (questions/réponses).
+* durant toute l'épreuve, le silence est exigé afin de garantir le calme pour tous,
+
+_Pondération et calcul de la note_
+
+Cette épreuve vaut pour 50% de la note finale du module. Les arrondis ainsi que le calcul de la note finale seront imposés par LAGAPEP.
+
+Le barême habituel suivant sera utilisé : (nb. obtenus / nb. max) \* 5 + 1
+
+
+
