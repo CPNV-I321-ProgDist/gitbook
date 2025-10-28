@@ -4,7 +4,7 @@
 
 Afin de pouvoir exécuter nos APIs sur des noeuds différents, nous devons modifier la structure du projet actuel.
 
-Les étapes de réalisation sont présentées dans la vidéo ci-dessous. Vous disposez également du code.
+Vous disposez également du code.
 
 Elle sont les suivantes:
 
