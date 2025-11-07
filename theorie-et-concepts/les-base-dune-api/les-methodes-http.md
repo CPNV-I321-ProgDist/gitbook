@@ -1,6 +1,6 @@
 # Les méthodes HTTP
 
-Source : [https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
+Source : [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
 
 ### Introduction
 
